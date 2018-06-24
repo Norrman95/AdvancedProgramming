@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\filip\desktop\klara advnaced programming\920\uppgift 13\source.cpp(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\filip\desktop\klara advnaced programming\920\uppgift 13\source.cpp(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Uppgift 13.vcxproj -> C:\Users\filip\Desktop\Klara Advnaced Programming\920\Debug\Uppgift 13.exe
+  Uppgift 13.vcxproj -> C:\Users\filip\Desktop\Klara Advnaced Programming\920\Debug\Uppgift 13.pdb (Partial PDB)

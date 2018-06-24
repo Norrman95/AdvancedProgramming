@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\filip\desktop\klara advnaced programming\10078\uppgift 14\source.cpp(18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\filip\desktop\klara advnaced programming\10078\uppgift 14\source.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\filip\desktop\klara advnaced programming\10078\uppgift 14\source.cpp(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Uppgift 14.vcxproj -> C:\Users\filip\Desktop\Klara Advnaced Programming\10078\Debug\Uppgift 14.exe
+  Uppgift 14.vcxproj -> C:\Users\filip\Desktop\Klara Advnaced Programming\10078\Debug\Uppgift 14.pdb (Partial PDB)
